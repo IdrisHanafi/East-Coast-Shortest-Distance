@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=size\ inStates
+comment0.target=MatrixGraph(int,\ java.lang.String[])
+comment1.params=n1\ n2\ edge
+comment1.target=boolean\ setEdge(int,\ int,\ double)
+comment2.params=n1\ n2
+comment2.target=double\ getEdge(int,\ int)
+numComments=3

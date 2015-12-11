@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=inDouble
+comment0.target=vertexMatrix(double)
+comment1.params=inDouble\ start\ end
+comment1.target=vertexMatrix(double,\ java.lang.String,\ java.lang.String)
+comment2.params=inDouble
+comment2.target=void\ setDistance(double)
+comment3.params=inPath
+comment3.target=void\ setPath(java.lang.String)
+comment4.params=inDouble\ inPath
+comment4.target=void\ setValues(double,\ java.lang.String)
+comment5.params=
+comment5.target=double\ getDistance()
+comment6.params=
+comment6.target=java.lang.String\ getPath()
+comment7.params=
+comment7.target=java.lang.String\ getFrom()
+comment8.params=
+comment8.target=java.lang.String\ getTo()
+numComments=9

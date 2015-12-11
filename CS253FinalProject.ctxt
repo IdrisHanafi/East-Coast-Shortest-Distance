@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=inStart\ inEnd
+comment0.target=boolean\ validInputs(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ printStates()
+comment2.params=inRefFile
+comment2.target=void\ size(java.util.Scanner)
+comment3.params=inStates
+comment3.target=void\ collectStates(java.lang.String)
+comment4.params=inRow\ inWeight
+comment4.target=void\ collectWeight(int,\ java.lang.String)
+comment5.params=
+comment5.target=void\ readDataInputOnce()
+comment6.params=
+comment6.target=void\ convertStringToDouble()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
